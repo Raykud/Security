@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/banriou/Documents/workspace/Security/Security/Security.csproj": {}
+  },
+  "projects": {
+    "/Users/banriou/Documents/workspace/Security/Security/Security.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/banriou/Documents/workspace/Security/Security/Security.csproj",
+        "projectName": "Security",
+        "projectPath": "/Users/banriou/Documents/workspace/Security/Security/Security.csproj",
+        "packagesPath": "/Users/banriou/.nuget/packages/",
+        "outputPath": "/Users/banriou/Documents/workspace/Security/Security/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/banriou/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Embeddinator-4000": {
+              "target": "Package",
+              "version": "[0.4.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

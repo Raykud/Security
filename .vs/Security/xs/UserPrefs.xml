@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5AD05DF7-3A44-4D52-90E7-4FDD00D451AA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Security PreferredExecutionTarget="Android.Pixel_API_30" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Security/Encryption.cs">
+    <Files>
+      <File FileName="Security/Encryption.cs" Line="28" Column="14" />
+      <File FileName="Security/EncryptionResult.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Security" expanded="True">
+            <Node name="Security" expanded="True" selected="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "88H3r4dkEcDe65mD4gy0ZiucYh9OtFIpCnIa4m+LYqWE4aAR1Z+ZCAudNYnIYx3orFaSiurNIYhkOs7g52N7Fw==",
+  "success": true,
+  "projectFilePath": "/Users/banriou/Documents/workspace/Security/Security/Security.csproj",
+  "expectedPackageFiles": [
+    "/Users/banriou/.nuget/packages/embeddinator-4000/0.4.0/embeddinator-4000.0.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
